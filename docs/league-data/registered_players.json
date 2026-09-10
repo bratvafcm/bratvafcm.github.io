@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T17:08:06.571Z",
+  "lastUpdated": "2026-09-10T14:21:55.868Z",
   "registrations": {
     "doxibero1": {
       "player_id": "doxibero1",
@@ -100,6 +100,17 @@
       "telegram_name": "محمد أسامه",
       "is_new_member": false,
       "registered_at": "2026-09-09T17:08:06.571Z"
+    },
+    "mike": {
+      "player_id": "mike",
+      "display_name": "Mike",
+      "in_game_name": "Mike",
+      "uid": null,
+      "telegram_id": 5847653261,
+      "telegram_username": "Josue1698",
+      "telegram_name": "Josue",
+      "is_new_member": false,
+      "registered_at": "2026-09-10T14:21:55.868Z"
     }
   },
   "current_checkin": {
