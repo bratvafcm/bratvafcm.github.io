@@ -124,5 +124,13 @@
     "opponent_total_goals": 394,
     "result": "loss",
     "status": "complete"
+  },
+  "2026-09-12_ed_phoenix_gen_2": {
+    "date": "2026-09-12",
+    "opponent_league": "ED PHOENIX GEN 2",
+    "our_total_goals": 280,
+    "opponent_total_goals": 354,
+    "result": "loss",
+    "status": "complete"
   }
 }
