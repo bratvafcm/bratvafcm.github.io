@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T20:41:05.251Z",
+  "lastUpdated": "2026-10-11T18:21:31.690Z",
   "registrations": {
     "doxibero1": {
       "player_id": "doxibero1",
@@ -96,10 +96,21 @@
       "telegram_name": "Josue",
       "is_new_member": false,
       "registered_at": "2026-09-10T14:32:10.130Z"
+    },
+    "sueeex": {
+      "player_id": "sueeex",
+      "display_name": "sueeex",
+      "in_game_name": "sueeex",
+      "uid": null,
+      "telegram_id": 5014313212,
+      "telegram_username": "EMPTYFUCKFACE",
+      "telegram_name": "Empty",
+      "is_new_member": false,
+      "registered_at": "2026-10-11T18:21:31.690Z"
     }
   },
   "current_checkin": {
-    "active": true,
+    "active": false,
     "openedAt": 1791664852853,
     "expiresAt": 1791668452853,
     "durationMinutes": 60,
