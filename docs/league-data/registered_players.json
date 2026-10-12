@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T14:34:44.949Z",
+  "lastUpdated": "2026-10-12T14:34:54.464Z",
   "registrations": {
     "doxibero1": {
       "player_id": "doxibero1",
@@ -115,7 +115,9 @@
     "expiresAt": 1791819284727,
     "durationMinutes": 60,
     "channel_msg_id": 75,
-    "ready": [],
+    "ready": [
+      "doxibero1"
+    ],
     "away": []
   }
 }
