@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T15:22:49.085Z",
+  "lastUpdated": "2026-10-13T15:26:42.962Z",
   "registrations": {
     "doxibero1": {
       "player_id": "doxibero1",
@@ -107,17 +107,27 @@
       "telegram_name": "Empty",
       "is_new_member": false,
       "registered_at": "2026-10-11T18:21:31.690Z"
+    },
+    "member_oxytraa": {
+      "player_id": "member_oxytraa",
+      "display_name": "oxytraa",
+      "in_game_name": "oxytraa",
+      "uid": null,
+      "telegram_id": 7445960247,
+      "telegram_username": "oxytraa007x",
+      "telegram_name": "Sensix9 FAM",
+      "is_new_member": true,
+      "registered_at": "2026-10-13T15:26:42.962Z"
     }
   },
   "current_checkin": {
-    "active": true,
-    "openedAt": 1791815684727,
-    "expiresAt": 1791819284727,
+    "active": false,
+    "openedAt": 1791664852853,
+    "expiresAt": 1791668452853,
     "durationMinutes": 60,
-    "channel_msg_id": 75,
+    "channel_msg_id": 74,
     "ready": [
-      "doxibero1",
-      "koustav_007"
+      "doxibero1"
     ],
     "away": []
   }
