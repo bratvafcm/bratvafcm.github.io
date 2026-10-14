@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T15:26:42.962Z",
+  "lastUpdated": "2026-10-14T07:49:14.855Z",
   "registrations": {
     "doxibero1": {
       "player_id": "doxibero1",
@@ -118,6 +118,17 @@
       "telegram_name": "Sensix9 FAM",
       "is_new_member": true,
       "registered_at": "2026-10-13T15:26:42.962Z"
+    },
+    "member_twilightfc": {
+      "player_id": "member_twilightfc",
+      "display_name": "TWILIGHTFC",
+      "in_game_name": "TWILIGHTFC",
+      "uid": null,
+      "telegram_id": 8460724107,
+      "telegram_username": "",
+      "telegram_name": "Rip Van Winkle",
+      "is_new_member": true,
+      "registered_at": "2026-10-14T07:49:14.854Z"
     }
   },
   "current_checkin": {
