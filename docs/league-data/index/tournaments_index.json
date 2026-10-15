@@ -106,5 +106,14 @@
     "opponent_total_goals": 187,
     "result": "win",
     "status": "complete"
+  },
+  "2026-10-15_boss_fc_c1": {
+    "date": "2026-10-15",
+    "timestamp": 1792024045825,
+    "opponent_league": "Boss FC - C1",
+    "our_total_goals": 204,
+    "opponent_total_goals": 205,
+    "result": "loss",
+    "status": "complete"
   }
 }
