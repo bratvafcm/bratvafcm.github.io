@@ -115,5 +115,14 @@
     "opponent_total_goals": 205,
     "result": "loss",
     "status": "complete"
+  },
+  "2026-10-20_garuda_official": {
+    "date": "2026-10-20",
+    "timestamp": 1792492818426,
+    "opponent_league": "GARUDA OFFICIAL",
+    "our_total_goals": 356,
+    "opponent_total_goals": 321,
+    "result": "win",
+    "status": "complete"
   }
 }
