@@ -124,5 +124,14 @@
     "opponent_total_goals": 321,
     "result": "win",
     "status": "complete"
+  },
+  "2026-10-22_legends": {
+    "date": "2026-10-22",
+    "timestamp": 1792670400000,
+    "opponent_league": "Legends",
+    "our_total_goals": 309,
+    "opponent_total_goals": 424,
+    "result": "loss",
+    "status": "complete"
   }
 }
