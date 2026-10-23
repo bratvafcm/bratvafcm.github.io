@@ -1,0 +1,271 @@
+{
+  "id": "2026-10-22_legends",
+  "tournament_id": "2026-10-22_legends",
+  "date": "2026-10-22",
+  "timestamp": 1792670400000,
+  "opponent_league": "Legends",
+  "our_total_goals": 309,
+  "opponent_total_goals": 424,
+  "result": "loss",
+  "status": "complete",
+  "total_turns_played": 29,
+  "max_possible_turns": 96,
+  "matches": [
+    {
+      "board_order": 1,
+      "player_id": "саня",
+      "player_display_name": "саня",
+      "ovr": 129,
+      "goals_for": 40,
+      "turns_played": 3
+    },
+    {
+      "board_order": 2,
+      "player_id": "koustav_007",
+      "player_display_name": "KOUSTAV_007",
+      "ovr": 127,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 3,
+      "player_id": "enrique_2013",
+      "player_display_name": "ENRIQUE_2013",
+      "ovr": 127,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 4,
+      "player_id": "qqwwee",
+      "player_display_name": "qqwwee",
+      "ovr": 127,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 5,
+      "player_id": "abirsh07",
+      "player_display_name": "Abirsh07",
+      "ovr": 127,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 6,
+      "player_id": "dredd",
+      "player_display_name": "Dredd",
+      "ovr": 126,
+      "goals_for": 20,
+      "turns_played": 2
+    },
+    {
+      "board_order": 7,
+      "player_id": "sueeex",
+      "player_display_name": "sueeex",
+      "ovr": 126,
+      "goals_for": 35,
+      "turns_played": 3
+    },
+    {
+      "board_order": 8,
+      "player_id": "wwe",
+      "player_display_name": "WWE",
+      "ovr": 126,
+      "goals_for": 32,
+      "turns_played": 3
+    },
+    {
+      "board_order": 9,
+      "player_id": "ridoy",
+      "player_display_name": "Ridoy",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 10,
+      "player_id": "henry",
+      "player_display_name": "Henry",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 11,
+      "player_id": "river_plate",
+      "player_display_name": "RIVER_PLATE",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 12,
+      "player_id": "bshdjsjqkq",
+      "player_display_name": "bshdjsjqkq",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 13,
+      "player_id": "msrpbot",
+      "player_display_name": "MSRPBOT",
+      "ovr": 126,
+      "goals_for": 11,
+      "turns_played": 1
+    },
+    {
+      "board_order": 14,
+      "player_id": "twilightfc",
+      "player_display_name": "TWILIGHTFC",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 15,
+      "player_id": "somo",
+      "player_display_name": "SOMO",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 16,
+      "player_id": "dip",
+      "player_display_name": "Dip",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 17,
+      "player_id": "mike",
+      "player_display_name": "Mike",
+      "ovr": 126,
+      "goals_for": 35,
+      "turns_played": 3
+    },
+    {
+      "board_order": 18,
+      "player_id": "lapool27",
+      "player_display_name": "LAPOOL27",
+      "ovr": 126,
+      "goals_for": 18,
+      "turns_played": 2
+    },
+    {
+      "board_order": 19,
+      "player_id": "king_pentax",
+      "player_display_name": "King_Pentax",
+      "ovr": 126,
+      "goals_for": 28,
+      "turns_played": 3
+    },
+    {
+      "board_order": 20,
+      "player_id": "ksfalubaz",
+      "player_display_name": "KSFALUBAZ",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 21,
+      "player_id": "cr7",
+      "player_display_name": "cr7",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 22,
+      "player_id": "sabil",
+      "player_display_name": "sabil",
+      "ovr": 125,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 23,
+      "player_id": "guzzy",
+      "player_display_name": "GUZZY",
+      "ovr": 125,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 24,
+      "player_id": "ashrooof",
+      "player_display_name": "AshroOoF",
+      "ovr": 125,
+      "goals_for": 31,
+      "turns_played": 3
+    },
+    {
+      "board_order": 25,
+      "player_id": "realmadrid",
+      "player_display_name": "REALMADRID",
+      "ovr": 125,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 26,
+      "player_id": "507",
+      "player_display_name": "507",
+      "ovr": 124,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 27,
+      "player_id": "oxytraa",
+      "player_display_name": "oxytraa",
+      "ovr": 124,
+      "goals_for": 27,
+      "turns_played": 3
+    },
+    {
+      "board_order": 28,
+      "player_id": "doxibero1",
+      "player_display_name": "DOXIBERO1",
+      "ovr": 124,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 29,
+      "player_id": "mohamed_osama",
+      "player_display_name": "Mohamed_Osama",
+      "ovr": 124,
+      "goals_for": 32,
+      "turns_played": 3
+    },
+    {
+      "board_order": 30,
+      "player_id": "тима",
+      "player_display_name": "Тима",
+      "ovr": 124,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 31,
+      "player_id": "hana_himesaki",
+      "player_display_name": "HANA•HIMESAKI",
+      "ovr": 118,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 32,
+      "player_id": "roma",
+      "player_display_name": "ROMA",
+      "ovr": 105,
+      "goals_for": 0,
+      "turns_played": 0
+    }
+  ]
+}
