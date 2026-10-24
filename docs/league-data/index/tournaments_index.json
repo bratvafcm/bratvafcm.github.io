@@ -133,5 +133,14 @@
     "opponent_total_goals": 424,
     "result": "loss",
     "status": "complete"
+  },
+  "2026-10-23_ultimate_cptns": {
+    "date": "2026-10-23",
+    "timestamp": 1792787436834,
+    "opponent_league": "Ultimate cptns",
+    "our_total_goals": 403,
+    "opponent_total_goals": 209,
+    "result": "win",
+    "status": "complete"
   }
 }
