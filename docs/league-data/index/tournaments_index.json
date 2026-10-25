@@ -142,5 +142,14 @@
     "opponent_total_goals": 209,
     "result": "win",
     "status": "complete"
+  },
+  "2026-10-24_bluuelook_fc": {
+    "date": "2026-10-24",
+    "timestamp": 1792876841925,
+    "opponent_league": "BLUUELOOK FC",
+    "our_total_goals": 331,
+    "opponent_total_goals": 430,
+    "result": "loss",
+    "status": "complete"
   }
 }
