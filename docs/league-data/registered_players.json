@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T15:31:07.339Z",
+  "lastUpdated": "2026-10-28T18:53:37.375Z",
   "registrations": {
     "doxibero1": {
       "player_id": "doxibero1",
@@ -129,6 +129,17 @@
       "telegram_name": "Rip Van Winkle",
       "is_new_member": true,
       "registered_at": "2026-10-14T07:49:14.854Z"
+    },
+    "member_arnur": {
+      "player_id": "member_arnur",
+      "display_name": "Arnur",
+      "in_game_name": "Arnur",
+      "uid": null,
+      "telegram_id": 7173520497,
+      "telegram_username": "Arnur3",
+      "telegram_name": "Rimuru4ik",
+      "is_new_member": true,
+      "registered_at": "2026-10-28T18:53:37.375Z"
     }
   },
   "current_checkin": {
