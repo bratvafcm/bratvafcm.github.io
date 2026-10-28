@@ -151,5 +151,14 @@
     "opponent_total_goals": 430,
     "result": "loss",
     "status": "complete"
+  },
+  "2026-10-27_profi_ua": {
+    "date": "2026-10-27",
+    "timestamp": 1793134969577,
+    "opponent_league": "ProFi UA",
+    "our_total_goals": 381,
+    "opponent_total_goals": 333,
+    "result": "win",
+    "status": "complete"
   }
 }
