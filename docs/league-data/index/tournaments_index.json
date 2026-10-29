@@ -160,5 +160,14 @@
     "opponent_total_goals": 333,
     "result": "win",
     "status": "complete"
+  },
+  "2026-10-29_th_nevergiveup": {
+    "date": "2026-10-29",
+    "timestamp": 1793255326001,
+    "opponent_league": "TH NeverGiveUp",
+    "our_total_goals": 367,
+    "opponent_total_goals": 357,
+    "result": "win",
+    "status": "complete"
   }
 }
