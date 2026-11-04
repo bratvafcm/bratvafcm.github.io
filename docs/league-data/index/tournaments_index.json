@@ -178,5 +178,14 @@
     "opponent_total_goals": 128,
     "result": "win",
     "status": "complete"
+  },
+  "2026-11-01_pacific_league": {
+    "date": "2026-11-01",
+    "timestamp": 1793534400000,
+    "opponent_league": "PACIFIC LEAGUE",
+    "our_total_goals": 289,
+    "opponent_total_goals": 358,
+    "result": "loss",
+    "status": "complete"
   }
 }
