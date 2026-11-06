@@ -196,5 +196,14 @@
     "opponent_total_goals": 503,
     "result": "loss",
     "status": "complete"
+  },
+  "2026-11-06_b13": {
+    "date": "2026-11-06",
+    "timestamp": 1793973528488,
+    "opponent_league": "#B13",
+    "our_total_goals": 300,
+    "opponent_total_goals": 619,
+    "result": "loss",
+    "status": "complete"
   }
 }
