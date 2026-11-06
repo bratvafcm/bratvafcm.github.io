@@ -25,13 +25,13 @@
   },
   "doxibero1": {
     "display_name": "DOXIBERO1",
-    "total_goals": 631,
-    "total_matches": 22,
-    "average_goals": 28.7,
-    "last_tournament_date": "2026-11-02",
+    "total_goals": 668,
+    "total_matches": 23,
+    "average_goals": 29,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 1,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -74,12 +74,12 @@
   "mohamed_osama": {
     "display_name": "Mohamed_Osama",
     "total_goals": 472,
-    "total_matches": 19,
-    "average_goals": 24.8,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 20,
+    "average_goals": 23.6,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -194,12 +194,12 @@
   "mike": {
     "display_name": "Mike",
     "total_goals": 461,
-    "total_matches": 21,
-    "average_goals": 22,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 22,
+    "average_goals": 21,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -326,12 +326,12 @@
   "abirsh07": {
     "display_name": "Abirsh07",
     "total_goals": 179,
-    "total_matches": 10,
-    "average_goals": 17.9,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 11,
+    "average_goals": 16.3,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -350,12 +350,12 @@
   "dip": {
     "display_name": "Dip",
     "total_goals": 0,
-    "total_matches": 7,
+    "total_matches": 8,
     "average_goals": 0,
-    "last_tournament_date": "2026-11-02",
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 7,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 8,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": true
     }
   },
@@ -602,12 +602,12 @@
   "king_pentax": {
     "display_name": "King_Pentax",
     "total_goals": 137,
-    "total_matches": 14,
-    "average_goals": 9.8,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 15,
+    "average_goals": 9.1,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 6,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 7,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": true
     }
   },
@@ -662,24 +662,24 @@
   "msrpbot": {
     "display_name": "MSRPBOT",
     "total_goals": 73,
-    "total_matches": 10,
-    "average_goals": 7.3,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 11,
+    "average_goals": 6.6,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 10,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 11,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": true
     }
   },
   "ksfalubaz": {
     "display_name": "KSFALUBAZ",
     "total_goals": 108,
-    "total_matches": 11,
-    "average_goals": 9.8,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 12,
+    "average_goals": 9,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 1,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 2,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -1429,13 +1429,13 @@
   },
   "sueeex": {
     "display_name": "sueeex",
-    "total_goals": 448,
-    "total_matches": 16,
-    "average_goals": 28,
-    "last_tournament_date": "2026-11-01",
+    "total_goals": 480,
+    "total_matches": 17,
+    "average_goals": 28.2,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
       "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-01_pacific_league",
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -1490,12 +1490,12 @@
   "henry": {
     "display_name": "Henry",
     "total_goals": 0,
-    "total_matches": 9,
+    "total_matches": 10,
     "average_goals": 0,
-    "last_tournament_date": "2026-11-02",
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 9,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 10,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": true
     }
   },
@@ -1526,48 +1526,48 @@
   "bshdjsjqkq": {
     "display_name": "bshdjsjqkq",
     "total_goals": 36,
-    "total_matches": 9,
-    "average_goals": 4,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 10,
+    "average_goals": 3.6,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 4,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 5,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": true
     }
   },
   "twilightfc": {
     "display_name": "TWILIGHTFC",
-    "total_goals": 220,
-    "total_matches": 9,
-    "average_goals": 24.4,
-    "last_tournament_date": "2026-11-02",
+    "total_goals": 250,
+    "total_matches": 10,
+    "average_goals": 25,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
       "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
   "lapool27": {
     "display_name": "LAPOOL27",
-    "total_goals": 109,
-    "total_matches": 9,
-    "average_goals": 12.1,
-    "last_tournament_date": "2026-11-02",
+    "total_goals": 116,
+    "total_matches": 10,
+    "average_goals": 11.6,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 5,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 6,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": true
     }
   },
   "cr7": {
-    "display_name": "cr7",
-    "total_goals": 45,
-    "total_matches": 8,
-    "average_goals": 5.6,
-    "last_tournament_date": "2026-11-01",
+    "display_name": "CR7",
+    "total_goals": 64,
+    "total_matches": 9,
+    "average_goals": 7.1,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 1,
-      "last_evaluated_tournament_id": "2026-11-01_pacific_league",
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -1610,12 +1610,12 @@
   "wwe": {
     "display_name": "WWE",
     "total_goals": 65,
-    "total_matches": 9,
-    "average_goals": 7.2,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 10,
+    "average_goals": 6.5,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 7,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 8,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": true
     }
   },
@@ -1634,12 +1634,12 @@
   "ashrooof": {
     "display_name": "AshrOoOf",
     "total_goals": 188,
-    "total_matches": 8,
-    "average_goals": 23.5,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 9,
+    "average_goals": 20.9,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -1776,15 +1776,15 @@
     }
   },
   "jacob": {
-    "display_name": "Jacob",
-    "total_goals": 7,
-    "total_matches": 3,
-    "average_goals": 2.3,
-    "last_tournament_date": "2026-11-02",
+    "display_name": "jacob",
+    "total_goals": 32,
+    "total_matches": 4,
+    "average_goals": 8,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 3,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
-      "flagged_for_review": true
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
     }
   },
   "anis": {
@@ -1849,13 +1849,13 @@
   },
   "campeónfc": {
     "display_name": "CAMPEÓNFC",
-    "total_goals": 20,
-    "total_matches": 1,
-    "average_goals": 20,
-    "last_tournament_date": "2026-10-31",
+    "total_goals": 30,
+    "total_matches": 2,
+    "average_goals": 15,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 1,
-      "last_evaluated_tournament_id": "2026-10-31_reyes_fc26",
+      "current_fail_streak": 2,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -1874,12 +1874,12 @@
   "lodos_x9": {
     "display_name": "LODOS_X9",
     "total_goals": 36,
-    "total_matches": 2,
-    "average_goals": 18,
-    "last_tournament_date": "2026-11-02",
+    "total_matches": 3,
+    "average_goals": 12,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -1909,25 +1909,25 @@
   },
   "shadow": {
     "display_name": "shadow",
-    "total_goals": 27,
-    "total_matches": 1,
-    "average_goals": 27,
-    "last_tournament_date": "2026-11-02",
+    "total_goals": 49,
+    "total_matches": 2,
+    "average_goals": 24.5,
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
       "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
   "kevvvl": {
     "display_name": "kevvvl",
     "total_goals": 0,
-    "total_matches": 1,
+    "total_matches": 2,
     "average_goals": 0,
-    "last_tournament_date": "2026-11-02",
+    "last_tournament_date": "2026-11-06",
     "eligibility_streak": {
-      "current_fail_streak": 1,
-      "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "current_fail_streak": 2,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   },
@@ -1976,6 +1976,138 @@
     "eligibility_streak": {
       "current_fail_streak": 0,
       "last_evaluated_tournament_id": "2026-11-02_garuda_619",
+      "flagged_for_review": false
+    }
+  },
+  "свя": {
+    "display_name": "СВЯ",
+    "total_goals": 38,
+    "total_matches": 1,
+    "average_goals": 38,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "nazarov_tjk": {
+    "display_name": "NAZAROV..TJK",
+    "total_goals": 21,
+    "total_matches": 1,
+    "average_goals": 21,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "qqww_ee": {
+    "display_name": "qqww ee",
+    "total_goals": 0,
+    "total_matches": 1,
+    "average_goals": 0,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "manchestercity01": {
+    "display_name": "manchestercity01",
+    "total_goals": 18,
+    "total_matches": 1,
+    "average_goals": 18,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "edith": {
+    "display_name": "EDITH",
+    "total_goals": 10,
+    "total_matches": 1,
+    "average_goals": 10,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "bruh": {
+    "display_name": "Bruh",
+    "total_goals": 0,
+    "total_matches": 1,
+    "average_goals": 0,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "asko": {
+    "display_name": "Asko",
+    "total_goals": 0,
+    "total_matches": 1,
+    "average_goals": 0,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "lenda": {
+    "display_name": "Lenda",
+    "total_goals": 10,
+    "total_matches": 1,
+    "average_goals": 10,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "smithx": {
+    "display_name": "SmithX",
+    "total_goals": 0,
+    "total_matches": 1,
+    "average_goals": 0,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "ð_trung": {
+    "display_name": "Ð Trung",
+    "total_goals": 0,
+    "total_matches": 1,
+    "average_goals": 0,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
+      "flagged_for_review": false
+    }
+  },
+  "ignite_ninja": {
+    "display_name": "IGNITE NINJA",
+    "total_goals": 21,
+    "total_matches": 1,
+    "average_goals": 21,
+    "last_tournament_date": "2026-11-06",
+    "eligibility_streak": {
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-06_b13",
       "flagged_for_review": false
     }
   }
