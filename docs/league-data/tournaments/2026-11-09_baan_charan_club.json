@@ -1,0 +1,143 @@
+{
+  "id": "2026-11-09_baan_charan_club",
+  "tournament_id": "2026-11-09_baan_charan_club",
+  "date": "2026-11-09",
+  "timestamp": 1794223292322,
+  "opponent_league": "Baan Charan Club",
+  "our_total_goals": 262,
+  "opponent_total_goals": 160,
+  "result": "win",
+  "status": "complete",
+  "total_turns_played": 29,
+  "max_possible_turns": 48,
+  "matches": [
+    {
+      "board_order": 1,
+      "player_id": "свня",
+      "player_display_name": "СВНЯ",
+      "ovr": 129,
+      "goals_for": 34,
+      "turns_played": 3
+    },
+    {
+      "board_order": 2,
+      "player_id": "lodos_x9",
+      "player_display_name": "LODOS_X9",
+      "ovr": 127,
+      "goals_for": 24,
+      "turns_played": 3
+    },
+    {
+      "board_order": 3,
+      "player_id": "sueeex",
+      "player_display_name": "sueeex",
+      "ovr": 127,
+      "goals_for": 28,
+      "turns_played": 3
+    },
+    {
+      "board_order": 4,
+      "player_id": "lapool27",
+      "player_display_name": "LAPOOL27",
+      "ovr": 127,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 5,
+      "player_id": "twilightfc",
+      "player_display_name": "TWILIGHTFC",
+      "ovr": 127,
+      "goals_for": 26,
+      "turns_played": 3
+    },
+    {
+      "board_order": 6,
+      "player_id": "bshdjsjqkq",
+      "player_display_name": "bshdjsjqkq",
+      "ovr": 127,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 7,
+      "player_id": "abirsh07",
+      "player_display_name": "Abirsh07",
+      "ovr": 127,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 8,
+      "player_id": "qqwwee",
+      "player_display_name": "qqwwee",
+      "ovr": 127,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 9,
+      "player_id": "mohamed_osama",
+      "player_display_name": "Mohamed_Osama",
+      "ovr": 127,
+      "goals_for": 23,
+      "turns_played": 3
+    },
+    {
+      "board_order": 10,
+      "player_id": "amur",
+      "player_display_name": "Amur",
+      "ovr": 127,
+      "goals_for": 24,
+      "turns_played": 3
+    },
+    {
+      "board_order": 11,
+      "player_id": "manchestercity01",
+      "player_display_name": "manchestercity01",
+      "ovr": 127,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 12,
+      "player_id": "anis",
+      "player_display_name": "Anis",
+      "ovr": 126,
+      "goals_for": 0,
+      "turns_played": 0
+    },
+    {
+      "board_order": 13,
+      "player_id": "свнчо",
+      "player_display_name": "свнчо",
+      "ovr": 126,
+      "goals_for": 28,
+      "turns_played": 3
+    },
+    {
+      "board_order": 14,
+      "player_id": "легенды2205",
+      "player_display_name": "Легенды2205",
+      "ovr": 126,
+      "goals_for": 23,
+      "turns_played": 3
+    },
+    {
+      "board_order": 15,
+      "player_id": "edith",
+      "player_display_name": "EDITH",
+      "ovr": 126,
+      "goals_for": 18,
+      "turns_played": 2
+    },
+    {
+      "board_order": 16,
+      "player_id": "doxibero1",
+      "player_display_name": "DOXIBERO1",
+      "ovr": 126,
+      "goals_for": 34,
+      "turns_played": 3
+    }
+  ]
+}
