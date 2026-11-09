@@ -205,5 +205,14 @@
     "opponent_total_goals": 619,
     "result": "loss",
     "status": "complete"
+  },
+  "2026-11-09_baan_charan_club": {
+    "date": "2026-11-09",
+    "timestamp": 1794223292322,
+    "opponent_league": "Baan Charan Club",
+    "our_total_goals": 262,
+    "opponent_total_goals": 160,
+    "result": "win",
+    "status": "complete"
   }
 }
