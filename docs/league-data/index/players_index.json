@@ -29,13 +29,13 @@
   },
   "roxtover": {
     "display_name": "ROXTOVER",
-    "total_goals": 880,
-    "total_matches": 31,
+    "total_goals": 910,
+    "total_matches": 32,
     "average_goals": 28.4,
-    "last_tournament_date": "2026-11-25",
+    "last_tournament_date": "2026-11-28",
     "eligibility_streak": {
       "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-25_warriors_romania",
+      "last_evaluated_tournament_id": "2026-11-28_it_s_1am",
       "flagged_for_review": false
     }
   },
@@ -81,13 +81,13 @@
   },
   "mohamed_osama": {
     "display_name": "Mohamed_Osama",
-    "total_goals": 647,
-    "total_matches": 27,
-    "average_goals": 24,
-    "last_tournament_date": "2026-11-25",
+    "total_goals": 674,
+    "total_matches": 28,
+    "average_goals": 24.1,
+    "last_tournament_date": "2026-11-28",
     "eligibility_streak": {
       "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-25_warriors_romania",
+      "last_evaluated_tournament_id": "2026-11-28_it_s_1am",
       "flagged_for_review": false
     }
   },
@@ -414,12 +414,12 @@
   "koustav_007": {
     "display_name": "KOUSTAV_007",
     "total_goals": 600,
-    "total_matches": 24,
-    "average_goals": 25,
-    "last_tournament_date": "2026-11-26",
+    "total_matches": 25,
+    "average_goals": 24,
+    "last_tournament_date": "2026-11-28",
     "eligibility_streak": {
-      "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-26_torneos_24_7",
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-28_it_s_1am",
       "flagged_for_review": false
     }
   },
@@ -787,17 +787,15 @@
   },
   "l1onchik": {
     "display_name": "L1onchik",
-    "total_goals": 105,
-    "total_matches": 10,
-    "average_goals": 10.5,
-    "last_tournament_date": "2026-10-24",
+    "total_goals": 137,
+    "total_matches": 11,
+    "average_goals": 12.5,
+    "last_tournament_date": "2026-11-28",
     "eligibility_streak": {
-      "current_fail_streak": 3,
-      "last_evaluated_tournament_id": "2026-10-24_bluuelook_fc",
-      "flagged_for_review": true
-    },
-    "status": "active",
-    "status_updated_at": "2026-11-27T01:07:02.721Z"
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-28_it_s_1am",
+      "flagged_for_review": false
+    }
   },
   "madara_09": {
     "display_name": "MADARA.09",
@@ -1653,14 +1651,14 @@
   },
   "oxytraa": {
     "display_name": "oxytraa",
-    "total_goals": 108,
-    "total_matches": 11,
-    "average_goals": 9.8,
-    "last_tournament_date": "2026-11-24",
+    "total_goals": 125,
+    "total_matches": 12,
+    "average_goals": 10.4,
+    "last_tournament_date": "2026-11-28",
     "eligibility_streak": {
-      "current_fail_streak": 7,
-      "last_evaluated_tournament_id": "2026-11-24_globe_trotters",
-      "flagged_for_review": true
+      "current_fail_streak": 0,
+      "last_evaluated_tournament_id": "2026-11-28_it_s_1am",
+      "flagged_for_review": false
     }
   },
   "hosain": {
@@ -1749,13 +1747,13 @@
   },
   "twilightfc": {
     "display_name": "TWILIGHTFC",
-    "total_goals": 506,
-    "total_matches": 19,
-    "average_goals": 26.6,
-    "last_tournament_date": "2026-11-26",
+    "total_goals": 538,
+    "total_matches": 20,
+    "average_goals": 26.9,
+    "last_tournament_date": "2026-11-28",
     "eligibility_streak": {
       "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-26_torneos_24_7",
+      "last_evaluated_tournament_id": "2026-11-28_it_s_1am",
       "flagged_for_review": false
     }
   },
@@ -2056,12 +2054,12 @@
   "villain1380": {
     "display_name": "Villain1380",
     "total_goals": 164,
-    "total_matches": 7,
-    "average_goals": 23.4,
-    "last_tournament_date": "2026-11-26",
+    "total_matches": 8,
+    "average_goals": 20.5,
+    "last_tournament_date": "2026-11-28",
     "eligibility_streak": {
-      "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-26_torneos_24_7",
+      "current_fail_streak": 1,
+      "last_evaluated_tournament_id": "2026-11-28_it_s_1am",
       "flagged_for_review": false
     }
   },
@@ -2151,13 +2149,13 @@
   },
   "arnur": {
     "display_name": "Arnur",
-    "total_goals": 172,
-    "total_matches": 8,
-    "average_goals": 21.5,
-    "last_tournament_date": "2026-11-26",
+    "total_goals": 195,
+    "total_matches": 9,
+    "average_goals": 21.7,
+    "last_tournament_date": "2026-11-28",
     "eligibility_streak": {
       "current_fail_streak": 0,
-      "last_evaluated_tournament_id": "2026-11-26_torneos_24_7",
+      "last_evaluated_tournament_id": "2026-11-28_it_s_1am",
       "flagged_for_review": false
     }
   },
